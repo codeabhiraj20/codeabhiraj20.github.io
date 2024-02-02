@@ -380,6 +380,12 @@ span2 {
     /* animation-delay: 0.3s; */
 }
 
+.skill-bar .sql {
+    width: 75%;
+    background-color: var(--third-color);
+    /* animation-delay: 0.3s; */
+}
+
 .skill-bar .c {
     width: 65%;
     background-color: var(--third-color);
