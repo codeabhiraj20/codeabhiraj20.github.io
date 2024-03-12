@@ -173,6 +173,12 @@ span2 {
     box-shadow: 0 0 .5rem #0077b5;
 }
 
+.social-media a.github:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 .5rem #0077b5;
+}
+
 .social-media a.twitter:hover {
     background-color: #1DA1F2;
     color: white;
